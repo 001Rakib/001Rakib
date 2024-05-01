@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Rakib Hasan.</h1>
 # 💫 About Me:
-Learning Full Stack Web Development.
-
+<h3 align="center">Learning Full Stack Web Development.</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/001rakib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/001rakibhasan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/001rakib) 
